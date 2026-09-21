@@ -26,39 +26,41 @@ B-roll + voiceover. Reference ad analysed: `mamabear_lowmagnesium.mp4` (1:59, EN
 
 Five recurring people, rotating exactly as the reference does — nobody carries more than five of the 36 clips, and no one appears in two consecutive live-action clips.
 
+**Age band: 36 to 56**, spread as 36 / 41 / 46 / 50 / 56. The ages are written into every prompt, but age also leaks in through physical traits, so the traits moved with the numbers: no receding hairlines, no white hair or moustaches, no hollow cheeks or leathery skin. Greying is present but partial — at the temples, at the roots — which is what reads as mid-forties to mid-fifties rather than retired. This cast runs deliberately younger than the reference ad's, whose people mostly read 55-70.
+
 ### Canonical subject — MARCO (shoulder protagonist, warehouse shift worker)
 
-> An Italian man aged about 55, solid heavy-athletic build with broad shoulders, square jaw under three-day grey stubble, weathered olive skin, deep-set brown eyes, heavy dark brows, close-cropped salt-and-pepper hair receding at the temples, a small pale scar through his left eyebrow, wearing a faded navy-blue work polo shirt with a chest pocket and a scuffed steel wristwatch on his left wrist.
+> An Italian man aged about 46, solid heavy-athletic build with broad shoulders, square jaw under three-day dark stubble, weathered olive skin, deep-set brown eyes, heavy dark brows, close-cropped dark brown hair greying at the temples, a small pale scar through his left eyebrow, wearing a faded navy-blue work polo shirt with a chest pocket and a scuffed steel wristwatch on his left wrist.
 
 *Wardrobe substitution, clip 06 only (waking):* plain white cotton undershirt instead of the navy work polo. Every other trait stays identical.
 
-**Short identity anchor** (image-to-video): *the Italian man about 55 with close-cropped salt-and-pepper hair, three-day grey stubble and a faded navy-blue work polo*
+**Short identity anchor** (image-to-video): *the Italian man about 46 with close-cropped dark brown hair greying at the temples, three-day dark stubble and a faded navy-blue work polo*
 
 ### Canonical subject — GIULIA (office worker)
 
-> An Italian woman aged about 48, slim build, long oval face with high cheekbones, fair skin with light freckles scattered across the nose, hazel eyes, shoulder-length wavy chestnut-brown hair with a few grey strands at the parting, thin gold hoop earrings, wearing a soft oatmeal-beige ribbed crewneck sweater and a thin gold chain necklace.
+> An Italian woman aged about 41, slim build, long oval face with high cheekbones, fair skin with light freckles scattered across the nose, hazel eyes, shoulder-length wavy chestnut-brown hair, thin gold hoop earrings, wearing a soft oatmeal-beige ribbed crewneck sweater and a thin gold chain necklace.
 
-**Short identity anchor:** *the Italian woman about 48 with shoulder-length wavy chestnut-brown hair, light freckles and an oatmeal-beige ribbed sweater*
+**Short identity anchor:** *the Italian woman about 41 with shoulder-length wavy chestnut-brown hair, light freckles and an oatmeal-beige ribbed sweater*
 
-### Canonical subject — RENZO (retiree)
+### Canonical subject — RENZO (tradesman, works with his hands)
 
-> An Italian man aged about 62, lean and wiry, narrow face with hollow cheeks and deep laugh lines, tanned leathery skin, pale blue-grey eyes, a full head of thick white hair brushed straight back, a neatly trimmed white moustache, thin silver-rimmed glasses, wearing a light grey crewneck sweatshirt with the sleeves pushed up to the elbows.
+> An Italian man aged about 56, lean and wiry, narrow face with defined cheekbones and laugh lines at the eyes, tanned outdoor skin, pale blue-grey eyes, thick steel-grey hair brushed straight back, clean-shaven, thin dark metal-rimmed glasses, wearing a light grey crewneck sweatshirt with the sleeves pushed up to the elbows.
 
-**Short identity anchor:** *the Italian man about 62 with thick white hair brushed back, a white moustache, silver-rimmed glasses and a light grey sweatshirt*
+**Short identity anchor:** *the Italian man about 56 with thick steel-grey hair brushed back, clean-shaven, thin dark metal-rimmed glasses and a light grey sweatshirt*
 
 ### Canonical subject — ANNA
 
-> An Italian woman aged about 58, medium build, round soft face with warm smile lines, pale skin, dark brown eyes, a silver-grey chin-length bob with a side parting, small pearl stud earrings, wearing a pale sage-green button cardigan over a plain white t-shirt.
+> An Italian woman aged about 50, medium build, round soft face with warm smile lines, pale skin, dark brown eyes, an ash-blonde chin-length bob with grey coming through at the roots and a side parting, small pearl stud earrings, wearing a pale sage-green button cardigan over a plain white t-shirt.
 
 *Wardrobe substitution, clips 05 and 27 only (night / waking):* a dusty-rose long-sleeved cotton pyjama top with a small notched collar instead of the cardigan and t-shirt. Every other trait stays identical.
 
-**Short identity anchor:** *the Italian woman about 58 with a silver-grey chin-length bob and pearl stud earrings*
+**Short identity anchor:** *the Italian woman about 50 with an ash-blonde chin-length bob and pearl stud earrings*
 
 ### Canonical subject — DAVIDE
 
-> An Italian man aged about 40, average build with a slight softness at the jaw, oval face, light olive skin, dark brown eyes behind thick black rectangular-framed glasses, short dark brown hair with a messy side fringe, a short dark beard trimmed close at the cheeks, wearing a heather-grey marl t-shirt.
+> An Italian man aged about 36, average build, oval face, light olive skin, dark brown eyes behind thick black rectangular-framed glasses, short dark brown hair with a messy side fringe, a short dark beard trimmed close at the cheeks, wearing a heather-grey marl t-shirt.
 
-**Short identity anchor:** *the Italian man about 40 with thick black rectangular glasses, a short dark beard and a heather-grey marl t-shirt*
+**Short identity anchor:** *the Italian man about 36 with thick black rectangular glasses, a short dark beard and a heather-grey marl t-shirt*
 
 ### Canonical product — MAGNESIO RESET
 
@@ -105,10 +107,10 @@ Your existing voiceover runs wall-to-wall under the whole cut. Every prompt expl
 "Il dolore alla tua spalla non è un problema di "poco riposo","
 
 **Text-to-image prompt**
-An Italian man aged about 55, solid heavy-athletic build with broad shoulders, square jaw under three-day grey stubble, weathered olive skin, deep-set brown eyes, heavy dark brows, close-cropped salt-and-pepper hair receding at the temples, a small pale scar through his left eyebrow, wearing a faded navy-blue work polo shirt with a chest pocket and a scuffed steel wristwatch on his left wrist. Cropped tight on his upper back and right shoulder in a plain home kitchen, his left hand clamped hard over the shoulder blade, head turned away and tipped down, face mostly out of frame, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian man aged about 46, solid heavy-athletic build with broad shoulders, square jaw under three-day dark stubble, weathered olive skin, deep-set brown eyes, heavy dark brows, close-cropped dark brown hair greying at the temples, a small pale scar through his left eyebrow, wearing a faded navy-blue work polo shirt with a chest pocket and a scuffed steel wristwatch on his left wrist. Cropped tight on his upper back and right shoulder in a plain home kitchen, his left hand clamped hard over the shoulder blade, head turned away and tipped down, face mostly out of frame, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian man about 55 with close-cropped salt-and-pepper hair, three-day grey stubble and a faded navy-blue work polo digs his left thumb into his right shoulder blade and rolls the shoulder backwards once, jaw tightening, eyes squeezing half shut, mouth staying closed. Slow handheld drift in toward the shoulder. Keep his face, build, hair and navy polo exactly as they are. No speaking, no mouth movement. Tense, grinding, unglamorous.
+The Italian man about 46 with close-cropped dark brown hair greying at the temples, three-day dark stubble and a faded navy-blue work polo digs his left thumb into his right shoulder blade and rolls the shoulder backwards once, jaw tightening, eyes squeezing half shut, mouth staying closed. Slow handheld drift in toward the shoulder. Keep his face, build, hair and navy polo exactly as they are. No speaking, no mouth movement. Tense, grinding, unglamorous.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `IL DOLORE ALLA SPALLA` (white) / `NON È POCO RIPOSO` (red). Meter overlay enters at full.
@@ -143,10 +145,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `È UN PROBLEMA DI` (wh
 "Poco magnesio nei tuoi muscoli si manifesta con crampi e spasmi."
 
 **Text-to-image prompt**
-An Italian woman aged about 48, slim build, long oval face with high cheekbones, fair skin with light freckles scattered across the nose, hazel eyes, shoulder-length wavy chestnut-brown hair with a few grey strands at the parting, thin gold hoop earrings, wearing a soft oatmeal-beige ribbed crewneck sweater and a thin gold chain necklace. Sitting forward on the edge of a beige living-room sofa, both hands kneading the muscle between her neck and right shoulder, shoulders hunched up toward her ears, face pinched and turned down, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian woman aged about 41, slim build, long oval face with high cheekbones, fair skin with light freckles scattered across the nose, hazel eyes, shoulder-length wavy chestnut-brown hair, thin gold hoop earrings, wearing a soft oatmeal-beige ribbed crewneck sweater and a thin gold chain necklace. Sitting forward on the edge of a beige living-room sofa, both hands kneading the muscle between her neck and right shoulder, shoulders hunched up toward her ears, face pinched and turned down, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian woman about 48 with shoulder-length wavy chestnut-brown hair, light freckles and an oatmeal-beige ribbed sweater squeezes and rolls the muscle at the base of her neck with both hands, her shoulder jerking once in a sharp involuntary spasm, eyes screwing shut, brow knotting, mouth staying closed. Handheld camera bobs slightly. Keep her face, freckles, hair and beige sweater exactly as they are. No speaking, no mouth movement.
+The Italian woman about 41 with shoulder-length wavy chestnut-brown hair, light freckles and an oatmeal-beige ribbed sweater squeezes and rolls the muscle at the base of her neck with both hands, her shoulder jerking once in a sharp involuntary spasm, eyes screwing shut, brow knotting, mouth staying closed. Handheld camera bobs slightly. Keep her face, freckles, hair and beige sweater exactly as they are. No speaking, no mouth movement.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `POCO MAGNESIO NEI MUSCOLI` (white) / `CRAMPI E SPASMI` (red). Meter drops one notch.
@@ -162,10 +164,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `POCO MAGNESIO NEI MUSC
 "Poco magnesio nei tuoi nervi si manifesta con fitte e scosse lancinanti."
 
 **Text-to-image prompt**
-An Italian man aged about 62, lean and wiry, narrow face with hollow cheeks and deep laugh lines, tanned leathery skin, pale blue-grey eyes, a full head of thick white hair brushed straight back, a neatly trimmed white moustache, thin silver-rimmed glasses, wearing a light grey crewneck sweatshirt with the sleeves pushed up to the elbows. Standing at a cluttered home workbench, right arm dropped and hanging limp, left hand gripping his right forearm just below the elbow, head snapped to the side, eyes wide, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian man aged about 56, lean and wiry, narrow face with defined cheekbones and laugh lines at the eyes, tanned outdoor skin, pale blue-grey eyes, thick steel-grey hair brushed straight back, clean-shaven, thin dark metal-rimmed glasses, wearing a light grey crewneck sweatshirt with the sleeves pushed up to the elbows. Standing at a cluttered home workbench, right arm dropped and hanging limp, left hand gripping his right forearm just below the elbow, head snapped to the side, eyes wide, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian man about 62 with thick white hair brushed back, a white moustache, silver-rimmed glasses and a light grey sweatshirt flinches hard as a jolt runs down his right arm, his hand snapping open and shaking once, his head recoiling, eyes going wide behind the glasses, mouth staying closed. Sharp handheld jolt on the flinch. Keep his face, white hair, moustache, glasses and grey sweatshirt exactly as they are. No speaking, no mouth movement.
+The Italian man about 56 with thick steel-grey hair brushed back, clean-shaven, thin dark metal-rimmed glasses and a light grey sweatshirt flinches hard as a jolt runs down his right arm, his hand snapping open and shaking once, his head recoiling, eyes going wide behind the glasses, mouth staying closed. Sharp handheld jolt on the flinch. Keep his face, steel-grey hair, glasses and grey sweatshirt exactly as they are. No speaking, no mouth movement.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `POCO MAGNESIO NEI NERVI` (white) / `FITTE E SCOSSE` (red). Meter drops one notch.
@@ -181,10 +183,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `POCO MAGNESIO NEI NERV
 "Poco magnesio prima di dormire si manifesta con notti insonni"
 
 **Text-to-image prompt**
-An Italian woman aged about 58, medium build, round soft face with warm smile lines, pale skin, dark brown eyes, a silver-grey chin-length bob with a side parting, small pearl stud earrings, wearing a dusty-rose long-sleeved cotton pyjama top with a small notched collar. Lying on her back in a dark bedroom under a rumpled grey duvet, wide awake, eyes open and fixed on the ceiling, one hand resting on her collarbone, mouth closed, only a thin band of streetlight across the wall behind her. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian woman aged about 50, medium build, round soft face with warm smile lines, pale skin, dark brown eyes, an ash-blonde chin-length bob with grey coming through at the roots and a side parting, small pearl stud earrings, wearing a dusty-rose long-sleeved cotton pyjama top with a small notched collar. Lying on her back in a dark bedroom under a rumpled grey duvet, wide awake, eyes open and fixed on the ceiling, one hand resting on her collarbone, mouth closed, only a thin band of streetlight across the wall behind her. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian woman about 58 with a silver-grey chin-length bob and pearl stud earrings blinks slowly at the ceiling, shifts her weight with a small frustrated turn of the head, and presses her hand flat against her collarbone, mouth staying closed. Very slow handheld drift. Keep her face, silver-grey bob, pearl earrings and dusty-rose pyjama top exactly as they are. No speaking, no mouth movement. Still, airless, 3 a.m.
+The Italian woman about 50 with an ash-blonde chin-length bob and pearl stud earrings blinks slowly at the ceiling, shifts her weight with a small frustrated turn of the head, and presses her hand flat against her collarbone, mouth staying closed. Very slow handheld drift. Keep her face, ash-blonde bob, pearl earrings and dusty-rose pyjama top exactly as they are. No speaking, no mouth movement. Still, airless, 3 a.m.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `PRIMA DI DORMIRE` (white) / `NOTTI INSONNI` (red). Meter drops one notch.
@@ -200,10 +202,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `PRIMA DI DORMIRE` (whi
 "e rigidità mattutina."
 
 **Text-to-image prompt**
-An Italian man aged about 55, solid heavy-athletic build with broad shoulders, square jaw under three-day grey stubble, weathered olive skin, deep-set brown eyes, heavy dark brows, close-cropped salt-and-pepper hair receding at the temples, a small pale scar through his left eyebrow, wearing a plain white cotton undershirt. Sitting hunched on the edge of an unmade bed in cold early-morning light, feet on the floor, trying to lift his right arm to shoulder height and stalling halfway, head bowed, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian man aged about 46, solid heavy-athletic build with broad shoulders, square jaw under three-day dark stubble, weathered olive skin, deep-set brown eyes, heavy dark brows, close-cropped dark brown hair greying at the temples, a small pale scar through his left eyebrow, wearing a plain white cotton undershirt. Sitting hunched on the edge of an unmade bed in cold early-morning light, feet on the floor, trying to lift his right arm to shoulder height and stalling halfway, head bowed, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian man about 55 with close-cropped salt-and-pepper hair and three-day grey stubble, in a white cotton undershirt, raises his right arm slowly, stops short with a wince, lets it drop, and rotates the shoulder stiffly, eyes narrowing, mouth staying closed. Static handheld with slight sway. Keep his face, build, hair and white undershirt exactly as they are. No speaking, no mouth movement. Heavy, cold, first-thing-in-the-morning.
+The Italian man about 46 with close-cropped dark brown hair greying at the temples and three-day dark stubble, in a white cotton undershirt, raises his right arm slowly, stops short with a wince, lets it drop, and rotates the shoulder stiffly, eyes narrowing, mouth staying closed. Static handheld with slight sway. Keep his face, build, hair and white undershirt exactly as they are. No speaking, no mouth movement. Heavy, cold, first-thing-in-the-morning.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `RIGIDITÀ MATTUTINA` (red). Meter drops one notch.
@@ -219,10 +221,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `RIGIDITÀ MATTUTINA` (
 "Poco magnesio a livello energetico si manifesta con stanchezza"
 
 **Text-to-image prompt**
-An Italian woman aged about 48, slim build, long oval face with high cheekbones, fair skin with light freckles scattered across the nose, hazel eyes, shoulder-length wavy chestnut-brown hair with a few grey strands at the parting, thin gold hoop earrings, wearing a soft oatmeal-beige ribbed crewneck sweater and a thin gold chain necklace. Slumped back in a desk chair in a dim home office, laptop glow on her face, head tipped back against the headrest, eyes closed, one hand slack in her lap, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian woman aged about 41, slim build, long oval face with high cheekbones, fair skin with light freckles scattered across the nose, hazel eyes, shoulder-length wavy chestnut-brown hair, thin gold hoop earrings, wearing a soft oatmeal-beige ribbed crewneck sweater and a thin gold chain necklace. Slumped back in a desk chair in a dim home office, laptop glow on her face, head tipped back against the headrest, eyes closed, one hand slack in her lap, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian woman about 48 with shoulder-length wavy chestnut-brown hair, light freckles and an oatmeal-beige ribbed sweater lets her head loll back, drags one hand down over her eyes, and exhales with her shoulders dropping, mouth staying closed. Slow handheld push in. Keep her face, freckles, hair and beige sweater exactly as they are. No speaking, no mouth movement. Drained, end-of-day.
+The Italian woman about 41 with shoulder-length wavy chestnut-brown hair, light freckles and an oatmeal-beige ribbed sweater lets her head loll back, drags one hand down over her eyes, and exhales with her shoulders dropping, mouth staying closed. Slow handheld push in. Keep her face, freckles, hair and beige sweater exactly as they are. No speaking, no mouth movement. Drained, end-of-day.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `A LIVELLO ENERGETICO` (white) / `STANCHEZZA` (red). Meter drops one notch.
@@ -238,10 +240,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `A LIVELLO ENERGETICO` 
 "e cattivo umore."
 
 **Text-to-image prompt**
-An Italian man aged about 40, average build with a slight softness at the jaw, oval face, light olive skin, dark brown eyes behind thick black rectangular-framed glasses, short dark brown hair with a messy side fringe, a short dark beard trimmed close at the cheeks, wearing a heather-grey marl t-shirt. Sitting at a cluttered kitchen table, both hands pressed flat over his face pushing the glasses up onto his forehead, elbows on the table, shoulders drawn in, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian man aged about 36, average build, oval face, light olive skin, dark brown eyes behind thick black rectangular-framed glasses, short dark brown hair with a messy side fringe, a short dark beard trimmed close at the cheeks, wearing a heather-grey marl t-shirt. Sitting at a cluttered kitchen table, both hands pressed flat over his face pushing the glasses up onto his forehead, elbows on the table, shoulders drawn in, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian man about 40 with thick black rectangular glasses, a short dark beard and a heather-grey marl t-shirt drags both hands down his face, settles the glasses back on his nose, and stares off past the camera with a flat irritated expression, mouth staying closed. Handheld, slight wobble. Keep his face, beard, glasses and grey t-shirt exactly as they are. No speaking, no mouth movement.
+The Italian man about 36 with thick black rectangular glasses, a short dark beard and a heather-grey marl t-shirt drags both hands down his face, settles the glasses back on his nose, and stares off past the camera with a flat irritated expression, mouth staying closed. Handheld, slight wobble. Keep his face, beard, glasses and grey t-shirt exactly as they are. No speaking, no mouth movement.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `E CATTIVO UMORE` (red). Meter drops one notch.
@@ -257,10 +259,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `E CATTIVO UMORE` (red)
 "La maggior parte delle persone non collega mai questi segnali."
 
 **Text-to-image prompt**
-An Italian woman aged about 58, medium build, round soft face with warm smile lines, pale skin, dark brown eyes, a silver-grey chin-length bob with a side parting, small pearl stud earrings, wearing a pale sage-green button cardigan over a plain white t-shirt. Standing at a small bathroom sink looking at her own reflection in the mirror, both hands braced on the basin edge, expression blank and unreadable, mouth closed, tiled wall and a single overhead light behind her. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian woman aged about 50, medium build, round soft face with warm smile lines, pale skin, dark brown eyes, an ash-blonde chin-length bob with grey coming through at the roots and a side parting, small pearl stud earrings, wearing a pale sage-green button cardigan over a plain white t-shirt. Standing at a small bathroom sink looking at her own reflection in the mirror, both hands braced on the basin edge, expression blank and unreadable, mouth closed, tiled wall and a single overhead light behind her. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian woman about 58 with a silver-grey chin-length bob and pearl stud earrings holds her own gaze in the mirror, rolls one shoulder absently without registering it, then looks down at the basin, mouth staying closed. Very slow handheld drift toward the mirror. Keep her face, silver-grey bob, pearl earrings and sage-green cardigan exactly as they are. No speaking, no mouth movement. Blank, unaware.
+The Italian woman about 50 with an ash-blonde chin-length bob and pearl stud earrings holds her own gaze in the mirror, rolls one shoulder absently without registering it, then looks down at the basin, mouth staying closed. Very slow handheld drift toward the mirror. Keep her face, ash-blonde bob, pearl earrings and sage-green cardigan exactly as they are. No speaking, no mouth movement. Blank, unaware.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `NESSUNO COLLEGA` (white) / `QUESTI SEGNALI` (red). Meter now a red sliver — final frame of the meter, it exits on the cut.
@@ -276,10 +278,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `NESSUNO COLLEGA` (whit
 "Se hai un fastidio alla spalla che non passa, quello che sto per dirti ti riguarda."
 
 **Text-to-image prompt**
-An Italian man aged about 55, solid heavy-athletic build with broad shoulders, square jaw under three-day grey stubble, weathered olive skin, deep-set brown eyes, heavy dark brows, close-cropped salt-and-pepper hair receding at the temples, a small pale scar through his left eyebrow, wearing a faded navy-blue work polo shirt with a chest pocket and a scuffed steel wristwatch on his left wrist. Standing in a warehouse aisle between tall steel shelving, side-on to camera, right shoulder lifted and rotating, left hand reaching across to press the joint, chin tucked down toward the shoulder, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian man aged about 46, solid heavy-athletic build with broad shoulders, square jaw under three-day dark stubble, weathered olive skin, deep-set brown eyes, heavy dark brows, close-cropped dark brown hair greying at the temples, a small pale scar through his left eyebrow, wearing a faded navy-blue work polo shirt with a chest pocket and a scuffed steel wristwatch on his left wrist. Standing in a warehouse aisle between tall steel shelving, side-on to camera, right shoulder lifted and rotating, left hand reaching across to press the joint, chin tucked down toward the shoulder, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian man about 55 with close-cropped salt-and-pepper hair, three-day grey stubble and a faded navy-blue work polo rolls his right shoulder in a slow full circle, presses the joint with his left hand, and shakes his head once in resignation, mouth staying closed. Handheld orbit a few degrees around him. Keep his face, build, hair and navy polo exactly as they are. No speaking, no mouth movement. Meter overlay gone from this clip onward.
+The Italian man about 46 with close-cropped dark brown hair greying at the temples, three-day dark stubble and a faded navy-blue work polo rolls his right shoulder in a slow full circle, presses the joint with his left hand, and shakes his head once in resignation, mouth staying closed. Handheld orbit a few degrees around him. Keep his face, build, hair and navy polo exactly as they are. No speaking, no mouth movement. Meter overlay gone from this clip onward.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `UN FASTIDIO ALLA SPALLA` (white) / `CHE NON PASSA` (red).
@@ -390,10 +392,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `FALSI ALLARMI` (red).
 "e movimenti normali come alzare il braccio, vestirsi,"
 
 **Text-to-image prompt**
-An Italian man aged about 62, lean and wiry, narrow face with hollow cheeks and deep laugh lines, tanned leathery skin, pale blue-grey eyes, a full head of thick white hair brushed straight back, a neatly trimmed white moustache, thin silver-rimmed glasses, wearing a light grey crewneck sweatshirt with the sleeves pushed up to the elbows. Reaching up for a glass on a high kitchen cupboard shelf, right arm extended above his head, body twisted away from the reach, face tight, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian man aged about 56, lean and wiry, narrow face with defined cheekbones and laugh lines at the eyes, tanned outdoor skin, pale blue-grey eyes, thick steel-grey hair brushed straight back, clean-shaven, thin dark metal-rimmed glasses, wearing a light grey crewneck sweatshirt with the sleeves pushed up to the elbows. Reaching up for a glass on a high kitchen cupboard shelf, right arm extended above his head, body twisted away from the reach, face tight, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian man about 62 with thick white hair brushed back, a white moustache, silver-rimmed glasses and a light grey sweatshirt stretches for the high shelf, catches a stab of pain halfway, pulls the arm down against his chest and cradles it, eyes clamping shut, mouth staying closed. Handheld tilt down following the arm. Keep his face, white hair, moustache, glasses and grey sweatshirt exactly as they are. No speaking, no mouth movement.
+The Italian man about 56 with thick steel-grey hair brushed back, clean-shaven, thin dark metal-rimmed glasses and a light grey sweatshirt stretches for the high shelf, catches a stab of pain halfway, pulls the arm down against his chest and cradles it, eyes clamping shut, mouth staying closed. Handheld tilt down following the arm. Keep his face, steel-grey hair, glasses and grey sweatshirt exactly as they are. No speaking, no mouth movement.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `ALZARE IL BRACCIO` (white) / `VESTIRSI` (white).
@@ -409,10 +411,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `ALZARE IL BRACCIO` (wh
 "girarsi nel letto diventano fonte di fastidio e dolore."
 
 **Text-to-image prompt**
-An Italian woman aged about 48, slim build, long oval face with high cheekbones, fair skin with light freckles scattered across the nose, hazel eyes, shoulder-length wavy chestnut-brown hair with a few grey strands at the parting, thin gold hoop earrings, wearing a soft oatmeal-beige ribbed crewneck sweater and a thin gold chain necklace. Lying on her side in a dim bedroom part-way through rolling over, weight propped on her right shoulder, one hand pushing into the mattress, face screwed up against the pillow, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian woman aged about 41, slim build, long oval face with high cheekbones, fair skin with light freckles scattered across the nose, hazel eyes, shoulder-length wavy chestnut-brown hair, thin gold hoop earrings, wearing a soft oatmeal-beige ribbed crewneck sweater and a thin gold chain necklace. Lying on her side in a dim bedroom part-way through rolling over, weight propped on her right shoulder, one hand pushing into the mattress, face screwed up against the pillow, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian woman about 48 with shoulder-length wavy chestnut-brown hair, light freckles and an oatmeal-beige ribbed sweater rolls onto her right shoulder, stops dead as the weight lands on it, and pushes herself back off it with her free hand, face contorting, mouth staying closed. Low handheld angle across the bed. Keep her face, freckles, hair and beige sweater exactly as they are. No speaking, no mouth movement.
+The Italian woman about 41 with shoulder-length wavy chestnut-brown hair, light freckles and an oatmeal-beige ribbed sweater rolls onto her right shoulder, stops dead as the weight lands on it, and pushes herself back off it with her free hand, face contorting, mouth staying closed. Low handheld angle across the bed. Keep her face, freckles, hair and beige sweater exactly as they are. No speaking, no mouth movement.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `GIRARSI NEL LETTO` (white) / `DIVENTA DOLORE` (red).
@@ -447,10 +449,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `TENSIONE, CONTRATTURA`
 "E ingoiare l'ennesima pillola non è la soluzione."
 
 **Text-to-image prompt**
-An Italian man aged about 40, average build with a slight softness at the jaw, oval face, light olive skin, dark brown eyes behind thick black rectangular-framed glasses, short dark brown hair with a messy side fringe, a short dark beard trimmed close at the cheeks, wearing a heather-grey marl t-shirt. Standing at a kitchen counter, a white tablet pinched between thumb and forefinger halfway to his lips, a glass of water in his other hand, head tipped slightly back, eyes down on the tablet. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian man aged about 36, average build, oval face, light olive skin, dark brown eyes behind thick black rectangular-framed glasses, short dark brown hair with a messy side fringe, a short dark beard trimmed close at the cheeks, wearing a heather-grey marl t-shirt. Standing at a kitchen counter, a white tablet pinched between thumb and forefinger halfway to his lips, a glass of water in his other hand, head tipped slightly back, eyes down on the tablet. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian man about 40 with thick black rectangular glasses, a short dark beard and a heather-grey marl t-shirt puts the tablet on his tongue, swallows it with a mouthful of water, and sets the glass down on the counter with a resigned look. Handheld, holds steady on him. Keep his face, beard, glasses and grey t-shirt exactly as they are. No speaking beyond the swallow. Routine, defeated.
+The Italian man about 36 with thick black rectangular glasses, a short dark beard and a heather-grey marl t-shirt puts the tablet on his tongue, swallows it with a mouthful of water, and sets the glass down on the counter with a resigned look. Handheld, holds steady on him. Keep his face, beard, glasses and grey t-shirt exactly as they are. No speaking beyond the swallow. Routine, defeated.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `L'ENNESIMA PILLOLA` (white) / `NON È LA SOLUZIONE` (yellow).
@@ -561,10 +563,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `UNA FORMULA TOPICA` (y
 "Le persone la usano ogni giorno per alleviare la spalla dopo ore di lavoro,"
 
 **Text-to-image prompt**
-An Italian woman aged about 48, slim build, long oval face with high cheekbones, fair skin with light freckles scattered across the nose, hazel eyes, shoulder-length wavy chestnut-brown hair with a few grey strands at the parting, thin gold hoop earrings, wearing a soft oatmeal-beige ribbed crewneck sweater pulled down off one shoulder and a thin gold chain necklace. Standing in a warm-lit hallway, reaching across with her right hand to massage a film of white cream into her bare left shoulder, head tilted toward the shoulder, eyes down, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian woman aged about 41, slim build, long oval face with high cheekbones, fair skin with light freckles scattered across the nose, hazel eyes, shoulder-length wavy chestnut-brown hair, thin gold hoop earrings, wearing a soft oatmeal-beige ribbed crewneck sweater pulled down off one shoulder and a thin gold chain necklace. Standing in a warm-lit hallway, reaching across with her right hand to massage a film of white cream into her bare left shoulder, head tilted toward the shoulder, eyes down, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian woman about 48 with shoulder-length wavy chestnut-brown hair, light freckles and an oatmeal-beige ribbed sweater works the white cream into her bare shoulder in slow firm circles, then rolls the shoulder once and lets it drop loose, her face easing, mouth staying closed. Slow handheld push in on the shoulder. Keep her face, freckles, hair and beige sweater exactly as they are. No speaking, no mouth movement. Everyday, unhurried, relieved.
+The Italian woman about 41 with shoulder-length wavy chestnut-brown hair, light freckles and an oatmeal-beige ribbed sweater works the white cream into her bare shoulder in slow firm circles, then rolls the shoulder once and lets it drop loose, her face easing, mouth staying closed. Slow handheld push in on the shoulder. Keep her face, freckles, hair and beige sweater exactly as they are. No speaking, no mouth movement. Everyday, unhurried, relieved.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `OGNI GIORNO` (yellow) / `DOPO ORE DI LAVORO` (white).
@@ -580,10 +582,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `OGNI GIORNO` (yellow) 
 "per tornare a dormire sul fianco"
 
 **Text-to-image prompt**
-An Italian man aged about 62, lean and wiry, narrow face with hollow cheeks and deep laugh lines, tanned leathery skin, pale blue-grey eyes, a full head of thick white hair brushed straight back, a neatly trimmed white moustache, no glasses, wearing a light grey crewneck sweatshirt. Asleep on his side in a softly lit bedroom, cheek settled into the pillow, one hand tucked under it, face completely relaxed, mouth closed, a grey duvet drawn up to his shoulder. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian man aged about 56, lean and wiry, narrow face with defined cheekbones and laugh lines at the eyes, tanned outdoor skin, pale blue-grey eyes, thick steel-grey hair brushed straight back, clean-shaven, no glasses, wearing a light grey crewneck sweatshirt. Asleep on his side in a softly lit bedroom, cheek settled into the pillow, one hand tucked under it, face completely relaxed, mouth closed, a grey duvet drawn up to his shoulder. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian man about 62 with thick white hair brushed back and a white moustache breathes slowly and evenly in deep sleep on his side, his shoulder rising and falling gently, face staying completely relaxed, mouth closed. Almost still camera, the faintest handheld drift. Keep his face, white hair, moustache and grey sweatshirt exactly as they are. No speaking, no mouth movement. Peaceful, undisturbed.
+The Italian man about 56 with thick steel-grey hair brushed back, clean-shaven, breathes slowly and evenly in deep sleep on his side, his shoulder rising and falling gently, face staying completely relaxed, mouth closed. Almost still camera, the faintest handheld drift. Keep his face, steel-grey hair and grey sweatshirt exactly as they are. No speaking, no mouth movement. Peaceful, undisturbed.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `DORMIRE SUL FIANCO` (yellow).
@@ -599,10 +601,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `DORMIRE SUL FIANCO` (y
 "e per svegliarsi finalmente sciolti e riposati."
 
 **Text-to-image prompt**
-An Italian woman aged about 58, medium build, round soft face with warm smile lines, pale skin, dark brown eyes, a silver-grey chin-length bob with a side parting, small pearl stud earrings, wearing a dusty-rose long-sleeved cotton pyjama top with a small notched collar. Sitting up on the edge of a bright bed in strong morning light, both arms stretched wide above her head in a full easy stretch, chin lifted, eyes softly closed, a broad relaxed smile, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian woman aged about 50, medium build, round soft face with warm smile lines, pale skin, dark brown eyes, an ash-blonde chin-length bob with grey coming through at the roots and a side parting, small pearl stud earrings, wearing a dusty-rose long-sleeved cotton pyjama top with a small notched collar. Sitting up on the edge of a bright bed in strong morning light, both arms stretched wide above her head in a full easy stretch, chin lifted, eyes softly closed, a broad relaxed smile, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian woman about 58 with a silver-grey chin-length bob and pearl stud earrings pushes both arms wide above her head into a full unrestricted stretch, rolls both shoulders back easily, and opens her eyes smiling, mouth staying closed. Slow handheld rise with the stretch. Keep her face, silver-grey bob, pearl earrings and dusty-rose pyjama top exactly as they are. No speaking, no mouth movement. Light, free, rested.
+The Italian woman about 50 with an ash-blonde chin-length bob and pearl stud earrings pushes both arms wide above her head into a full unrestricted stretch, rolls both shoulders back easily, and opens her eyes smiling, mouth staying closed. Slow handheld rise with the stretch. Keep her face, ash-blonde bob, pearl earrings and dusty-rose pyjama top exactly as they are. No speaking, no mouth movement. Light, free, rested.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `SCIOLTI E RIPOSATI` (yellow).
@@ -637,10 +639,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `UNA PICCOLA QUANTITÀ`
 "è spesso sufficiente per iniziare a dare tregua ai nervi in pochi minuti."
 
 **Text-to-image prompt**
-An Italian man aged about 55, solid heavy-athletic build with broad shoulders, square jaw under three-day grey stubble, weathered olive skin, deep-set brown eyes, heavy dark brows, close-cropped salt-and-pepper hair receding at the temples, a small pale scar through his left eyebrow, wearing a faded navy-blue work polo shirt pulled down off his right shoulder and a scuffed steel wristwatch on his left wrist. Sitting on a kitchen chair just home from work, left hand massaging white cream into his bare right shoulder, head tipped back, eyes closed, face beginning to slacken, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian man aged about 46, solid heavy-athletic build with broad shoulders, square jaw under three-day dark stubble, weathered olive skin, deep-set brown eyes, heavy dark brows, close-cropped dark brown hair greying at the temples, a small pale scar through his left eyebrow, wearing a faded navy-blue work polo shirt pulled down off his right shoulder and a scuffed steel wristwatch on his left wrist. Sitting on a kitchen chair just home from work, left hand massaging white cream into his bare right shoulder, head tipped back, eyes closed, face beginning to slacken, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian man about 55 with close-cropped salt-and-pepper hair, three-day grey stubble and a faded navy-blue work polo massages the cream deep into his shoulder, slows the circles, then lets his hand fall away as his shoulders drop and his jaw unclenches, eyes still closed, mouth staying closed. Slow handheld push in on his face. Keep his face, build, hair and navy polo exactly as they are. No speaking, no mouth movement. The tension leaving him.
+The Italian man about 46 with close-cropped dark brown hair greying at the temples, three-day dark stubble and a faded navy-blue work polo massages the cream deep into his shoulder, slows the circles, then lets his hand fall away as his shoulders drop and his jaw unclenches, eyes still closed, mouth staying closed. Slow handheld push in on his face. Keep his face, build, hair and navy polo exactly as they are. No speaking, no mouth movement. The tension leaving him.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `TREGUA AI NERVI` (yellow) / `IN POCHI MINUTI` (yellow).
@@ -656,10 +658,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `TREGUA AI NERVI` (yell
 "Nessuna routine complicata, nessuna visita da prenotare,"
 
 **Text-to-image prompt**
-An Italian man aged about 40, average build with a slight softness at the jaw, oval face, light olive skin, dark brown eyes behind thick black rectangular-framed glasses, short dark brown hair with a messy side fringe, a short dark beard trimmed close at the cheeks, wearing a heather-grey marl t-shirt. Standing over a kitchen table strewn with appointment cards and a paper wall calendar covered in circled dates, one hand hovering above the pile about to sweep it aside, looking down at it flatly, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian man aged about 36, average build, oval face, light olive skin, dark brown eyes behind thick black rectangular-framed glasses, short dark brown hair with a messy side fringe, a short dark beard trimmed close at the cheeks, wearing a heather-grey marl t-shirt. Standing over a kitchen table strewn with appointment cards and a paper wall calendar covered in circled dates, one hand hovering above the pile about to sweep it aside, looking down at it flatly, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian man about 40 with thick black rectangular glasses, a short dark beard and a heather-grey marl t-shirt sweeps the appointment cards and the calendar off the table edge with the back of his hand and turns away, mouth staying closed. Handheld follows the sweep. Keep his face, beard, glasses and grey t-shirt exactly as they are. No speaking, no mouth movement. Dismissive, done with it.
+The Italian man about 36 with thick black rectangular glasses, a short dark beard and a heather-grey marl t-shirt sweeps the appointment cards and the calendar off the table edge with the back of his hand and turns away, mouth staying closed. Handheld follows the sweep. Keep his face, beard, glasses and grey t-shirt exactly as they are. No speaking, no mouth movement. Dismissive, done with it.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `NESSUNA VISITA` (yellow) / `DA PRENOTARE` (yellow).
@@ -675,10 +677,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `NESSUNA VISITA` (yello
 "nessuna montagna di integratori o compresse."
 
 **Text-to-image prompt**
-An Italian woman aged about 58, medium build, round soft face with warm smile lines, pale skin, dark brown eyes, a silver-grey chin-length bob with a side parting, small pearl stud earrings, wearing a pale sage-green button cardigan over a plain white t-shirt. Standing at a kitchen counter crowded with a dozen unbranded white supplement bottles and blister packs of tablets, one hand pushing the whole cluster away toward the back of the counter, looking down at them, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian woman aged about 50, medium build, round soft face with warm smile lines, pale skin, dark brown eyes, an ash-blonde chin-length bob with grey coming through at the roots and a side parting, small pearl stud earrings, wearing a pale sage-green button cardigan over a plain white t-shirt. Standing at a kitchen counter crowded with a dozen unbranded white supplement bottles and blister packs of tablets, one hand pushing the whole cluster away toward the back of the counter, looking down at them, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian woman about 58 with a silver-grey chin-length bob and pearl stud earrings pushes the crowd of white supplement bottles and blister packs away across the counter, two of them tipping over, and lets her hand drop, mouth staying closed. Handheld, slight shake as the bottles topple. Keep her face, silver-grey bob, pearl earrings and sage-green cardigan exactly as they are. No speaking, no mouth movement.
+The Italian woman about 50 with an ash-blonde chin-length bob and pearl stud earrings pushes the crowd of white supplement bottles and blister packs away across the counter, two of them tipping over, and lets her hand drop, mouth staying closed. Handheld, slight shake as the bottles topple. Keep her face, ash-blonde bob, pearl earrings and sage-green cardigan exactly as they are. No speaking, no mouth movement.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `NESSUNA MONTAGNA` (yellow) / `DI COMPRESSE` (yellow).
@@ -694,10 +696,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `NESSUNA MONTAGNA` (yel
 "Dai semplicemente al tuo corpo quello che gli manca, esattamente dove serve."
 
 **Text-to-image prompt**
-**Attach the product photo reference (`CREMA_REJUVIR.png`) to this generation — render the jar and its label exactly as the attached reference, do not invent or redraw any label text.** An Italian man aged about 55, solid heavy-athletic build with broad shoulders, square jaw under three-day grey stubble, weathered olive skin, deep-set brown eyes, heavy dark brows, close-cropped salt-and-pepper hair receding at the temples, a small pale scar through his left eyebrow, wearing a faded navy-blue work polo shirt pulled down off his right shoulder. Shot from behind and slightly above, spreading white cream across his bare right shoulder blade with his left hand, an open squat white cosmetic jar with a broad white screw lid and a deep blue label band, matching the attached product reference exactly, standing on the table beside him, label facing camera. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+**Attach the product photo reference (`CREMA_REJUVIR.png`) to this generation — render the jar and its label exactly as the attached reference, do not invent or redraw any label text.** An Italian man aged about 46, solid heavy-athletic build with broad shoulders, square jaw under three-day dark stubble, weathered olive skin, deep-set brown eyes, heavy dark brows, close-cropped dark brown hair greying at the temples, a small pale scar through his left eyebrow, wearing a faded navy-blue work polo shirt pulled down off his right shoulder. Shot from behind and slightly above, spreading white cream across his bare right shoulder blade with his left hand, an open squat white cosmetic jar with a broad white screw lid and a deep blue label band, matching the attached product reference exactly, standing on the table beside him, label facing camera. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian man about 55 with close-cropped salt-and-pepper hair and a faded navy-blue work polo works the white cream across his shoulder blade in broad slow strokes, his shoulder loosening under his hand. The open white jar with the deep blue label band stays in the corner of frame with its label facing camera. Slow handheld push in over his shoulder. Keep his face, build, hair and navy polo exactly as they are, and keep the jar's shape, colours and label exactly as they are. No speaking, no mouth movement.
+The Italian man about 46 with close-cropped dark brown hair greying at the temples and a faded navy-blue work polo works the white cream across his shoulder blade in broad slow strokes, his shoulder loosening under his hand. The open white jar with the deep blue label band stays in the corner of frame with its label facing camera. Slow handheld push in over his shoulder. Keep his face, build, hair and navy polo exactly as they are, and keep the jar's shape, colours and label exactly as they are. No speaking, no mouth movement.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `QUELLO CHE GLI MANCA` (white) / `ESATTAMENTE DOVE SERVE` (yellow). Optional edit flourish: a soft teal glow blooming under the hand, matched to clip 23.
@@ -713,10 +715,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `QUELLO CHE GLI MANCA` 
 "Se convivi con un fastidio alla spalla che non passa,"
 
 **Text-to-image prompt**
-An Italian woman aged about 48, slim build, long oval face with high cheekbones, fair skin with light freckles scattered across the nose, hazel eyes, shoulder-length wavy chestnut-brown hair with a few grey strands at the parting, thin gold hoop earrings, wearing a soft oatmeal-beige ribbed crewneck sweater and a thin gold chain necklace. Sitting at a home desk in late-afternoon light, turned away from the laptop, right hand reaching over the opposite shoulder to press the muscle, head rolling to one side, eyes tired, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian woman aged about 41, slim build, long oval face with high cheekbones, fair skin with light freckles scattered across the nose, hazel eyes, shoulder-length wavy chestnut-brown hair, thin gold hoop earrings, wearing a soft oatmeal-beige ribbed crewneck sweater and a thin gold chain necklace. Sitting at a home desk in late-afternoon light, turned away from the laptop, right hand reaching over the opposite shoulder to press the muscle, head rolling to one side, eyes tired, mouth closed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian woman about 48 with shoulder-length wavy chestnut-brown hair, light freckles and an oatmeal-beige ribbed sweater kneads the muscle over her shoulder, rolls her head slowly from one side to the other, and lets out a long weary breath, mouth staying closed. Slow handheld drift around toward her face. Keep her face, freckles, hair and beige sweater exactly as they are. No speaking, no mouth movement.
+The Italian woman about 41 with shoulder-length wavy chestnut-brown hair, light freckles and an oatmeal-beige ribbed sweater kneads the muscle over her shoulder, rolls her head slowly from one side to the other, and lets out a long weary breath, mouth staying closed. Slow handheld drift around toward her face. Keep her face, freckles, hair and beige sweater exactly as they are. No speaking, no mouth movement.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `UN FASTIDIO` (white) / `CHE NON PASSA` (red).
@@ -732,10 +734,10 @@ Narrator VO only, no visible speaker. Burned-in caption: `UN FASTIDIO` (white) /
 "una tensione serale incessante o fitte di dolore che ti rubano il sonno,"
 
 **Text-to-image prompt**
-An Italian man aged about 62, lean and wiry, narrow face with hollow cheeks and deep laugh lines, tanned leathery skin, pale blue-grey eyes, a full head of thick white hair brushed straight back, a neatly trimmed white moustache, no glasses, wearing a light grey crewneck sweatshirt. Lying awake on his back in a dark bedroom at night, one hand clamped over his opposite shoulder, eyes open and staring upward, jaw set, mouth closed, only a dim blue window light falling across the bed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
+An Italian man aged about 56, lean and wiry, narrow face with defined cheekbones and laugh lines at the eyes, tanned outdoor skin, pale blue-grey eyes, thick steel-grey hair brushed straight back, clean-shaven, no glasses, wearing a light grey crewneck sweatshirt. Lying awake on his back in a dark bedroom at night, one hand clamped over his opposite shoulder, eyes open and staring upward, jaw set, mouth closed, only a dim blue window light falling across the bed. Photorealistic amateur smartphone video still, handheld at arm's length, slightly soft and lightly compressed, natural available indoor light with no professional lighting or styling, true-to-life muted colour, mild sensor noise, 9:16 vertical framing.
 
 **Image-to-video prompt**
-The Italian man about 62 with thick white hair brushed back and a white moustache grips his shoulder harder as a jolt catches him, his whole body tensing briefly, then eases back onto the pillow and stares up at the ceiling wide awake, mouth staying closed. Very slow handheld push in. Keep his face, white hair, moustache and grey sweatshirt exactly as they are. No speaking, no mouth movement. Long night, no sleep coming.
+The Italian man about 56 with thick steel-grey hair brushed back, clean-shaven, grips his shoulder harder as a jolt catches him, his whole body tensing briefly, then eases back onto the pillow and stares up at the ceiling wide awake, mouth staying closed. Very slow handheld push in. Keep his face, steel-grey hair and grey sweatshirt exactly as they are. No speaking, no mouth movement. Long night, no sleep coming.
 
 **VO line + caption**
 Narrator VO only, no visible speaker. Burned-in caption: `TENSIONE SERALE` (red) / `FITTE CHE RUBANO IL SONNO` (red).
